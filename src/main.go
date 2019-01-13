@@ -1,7 +1,5 @@
 /*
-Tool decrypts SAML assertions. We currently use the sha1 algorithm.
-If that changes, we can update to whichever algorithm is needed.
-Supports standards of aes-128, aes-192, and aes-256.
+Tool decrypts SAML assertions. 
 */
 
 package main
